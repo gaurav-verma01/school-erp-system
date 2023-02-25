@@ -17,7 +17,7 @@ This application provides three ends-
 4. **Server**
 
 
-## Aim🎯
+## Aim of ERP🎯
 
 Create a flawless backend in the `server` folder of this application using given tech stack. Assistance regarding the same shall be provided 😊.
 
